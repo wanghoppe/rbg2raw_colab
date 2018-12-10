@@ -1,7 +1,6 @@
 import tensorlayer as tl
 import tensorflow as tf
 import rawpy
-from model import SRGAN_g
 from PIL import Image
 import numpy as np
 import glob
